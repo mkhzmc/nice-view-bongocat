@@ -31,7 +31,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: nice-view-bongocat #new entry
-      remote: dsifry #new entry
+      remote: mkhzmc #new entry
       revision: main #new entry
   self:
     path: config
