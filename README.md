@@ -23,14 +23,14 @@ manifest:
     # zmk official
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: dsifry #new entry
-      url-base: https://github.com/dsifry #new entry
+    - name: mkhzmc #new entry
+      url-base: https://github.com/mkhzmc #new entry
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: nice-view-mod #new entry
+    - name: nice-view-bongocat #new entry
       remote: dsifry #new entry
       revision: main #new entry
   self:
