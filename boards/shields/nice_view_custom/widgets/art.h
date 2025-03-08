@@ -9,4 +9,5 @@ extern const lv_img_dsc_t bongocatfast1;
 extern const lv_img_dsc_t bongocatfast2;
 extern const lv_img_dsc_t balloon;
 extern const lv_img_dsc_t jellyfish;
-extern const lv_img_dsc_t seahorse; 
+extern const lv_img_dsc_t seahorse;
+extern const lv_img_dsc_t kayoko_c;
